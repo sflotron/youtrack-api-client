@@ -12,7 +12,7 @@ go get github.com/elcait/youtrack-api-client
 ## Import
 
 ```go
-import youtrack "github.com/sflotron/youtrack-api-client/client"
+import youtrack "github.com/elcait/youtrack-api-client/client"
 ```
 
 ## Quick Start
@@ -24,7 +24,7 @@ import (
 	"context"
 	"log"
 
-	youtrack "github.com/sflotron/youtrack-api-client/client"
+	youtrack "github.com/elcait/youtrack-api-client/client"
 )
 
 func main() {

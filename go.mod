@@ -1,4 +1,4 @@
-module github.com/sflotron/youtrack-api-client
+module github.com/elcait/youtrack-api-client
 
 go 1.24.0
 

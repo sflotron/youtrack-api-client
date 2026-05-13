@@ -8,7 +8,7 @@ builds:
 
 release:
   github:
-    owner: sflotron
+    owner: elcait
     name: youtrack-api-client
   draft: false
   prerelease: auto
@@ -17,7 +17,7 @@ release:
 
     This release was generated automatically from tagged commits.
   footer: |
-    **Full Changelog**: https://github.com/sflotron/youtrack-api-client/compare/{{ .PreviousTag }}...{{ .Tag }}
+    **Full Changelog**: https://github.com/elcait/youtrack-api-client/compare/{{ .PreviousTag }}...{{ .Tag }}
 
 changelog:
   use: git

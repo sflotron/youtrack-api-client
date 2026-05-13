@@ -6,7 +6,7 @@ integrations such as Terraform providers, operators, or automation services.
 ## Installation
 
 ```bash
-go get github.com/sflotron/youtrack-api-client
+go get github.com/elcait/youtrack-api-client
 ```
 
 ## Import

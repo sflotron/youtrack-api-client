@@ -46,7 +46,3 @@ func main() {
 	log.Printf("Found user %s (%s)", user.Login, user.ID)
 }
 ```
-
-## License
-
-This project is licensed under GNU GPLv3. See the LICENSE file for details.

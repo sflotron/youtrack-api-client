@@ -3,6 +3,9 @@
 Go library to interact with the YouTrack REST API. It can be used to build
 integrations such as Terraform providers, operators, or automation services.
 
+This software is licensed under the Mozilla Public License 2.0 (MPL-2.0).
+See the LICENSE file for details.
+
 ## Installation
 
 ```bash

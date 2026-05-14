@@ -2,6 +2,7 @@
 FEATURES:
 
 IMPROVEMENTS:
+- Align release process with standard GitHub Actions workflow for tag-based releases.
 
 BUG FIXES:
 - Change Licence from GPL-3.0 to MPL-2.0 License.
